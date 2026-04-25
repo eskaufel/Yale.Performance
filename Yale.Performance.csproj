@@ -5,6 +5,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<PackageReference Include="BenchmarkDotNet" Version="0.14.0" />
 		<PackageReference Include="Flee" Version="2.0.0" />
 		<PackageReference Include="Yale" Version="1.0.0.1" />
 	</ItemGroup>
